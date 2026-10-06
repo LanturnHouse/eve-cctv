@@ -1,8 +1,11 @@
 # EVE CCTV
 
-
-# Argus 와 병합된 프로젝트입니다.
-
+> **이 프로젝트는 [Argus](https://github.com/LanturnHouse/Argus)에 병합되었습니다.**
+>
+> EVE CCTV의 기능은 Argus의 `Argus.Modules.Cctv` 모듈로 C#에서 새로 구현되었고, 이후 개발은 Argus에서 진행합니다. 이 저장소는 기존 웹 애플리케이션 버전의 기록으로 남겨 둡니다.
+>
+> - Argus의 CCTV 모듈은 Tesseract OCR 없이 Ollama 비전 모델만 사용해 스크린샷을 읽습니다.
+> - 이 저장소의 판정 알고리즘 설명(10장)은 Argus의 판정 로직을 이해하는 참고 자료로 그대로 유효합니다.
 
 ## 1. 프로젝트 소개
 
